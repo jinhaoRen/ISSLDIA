@@ -9,6 +9,7 @@ Assistance for Single Hyperspectral Image Super-Resolution"
     ├──{your training dataset name}
     |     └── *.{png/jpg/tif/...}      
     |     └── *.{png/jpg/tif/...}
+    |     └──  ...
     ----------------------------------------------
 ```
    We provided two training data sets under `./UCMerced_LandUse/Images/` and `./CVPR08-SR/Data/` 
