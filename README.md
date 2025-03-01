@@ -13,7 +13,7 @@ Assistance for Single Hyperspectral Image Super-Resolution"
     ----------------------------------------------
 ```
    We provided two training data sets under `./UCMerced_LandUse/Images/` and `./CVPR08-SR/Data/` 
-   in `.zip` format, you can unzip them and put these images under its own folder.
+   in `.zip` format, you can unzip them and put these images under their own folder.
    
    3) Put testing hyperspectral data in '.mat' format under 
 ```
