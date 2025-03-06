@@ -1,7 +1,9 @@
 # ISSLDIA
 This repository contains the Matlab codes of paper "ISSLDIA: Internal Structure Self-learning and Low Dimensional Image
 Assistance for Single Hyperspectral Image Super-Resolution"   
-
+<p align="center">
+  <img src="Fig/Figure_1.pdf">
+</p>
 ## Prepare
    1) Please read `./ompbox/readme.txt` and `./ksvdbox/readme.txt` first and follow the steps to setup the ompbox and ksvdbox function tools.
    2) Put your RGB training images anywhere you like.  (you need change the training path in 'Training.m' matfile.)
