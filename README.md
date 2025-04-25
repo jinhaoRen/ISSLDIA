@@ -1,7 +1,8 @@
 # ISSLDIA
 This repository contains the Matlab codes of paper "ISSLDIA: Internal Structure Self-learning and Low Dimensional Image
 Assistance for Single Hyperspectral Image Super-Resolution" 
-[DOI:https://doi.org/10.1016/j.infrared.2025.105859](https://doi.org/10.1016/j.infrared.2025.105859)
+
+DOI:[https://doi.org/10.1016/j.infrared.2025.105859](https://doi.org/10.1016/j.infrared.2025.105859)
 <p align="center">
   <img src="Fig/Figure_1.png">
 </p>
